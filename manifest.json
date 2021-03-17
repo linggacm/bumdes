@@ -1,7 +1,7 @@
 {
   "name": "BUMDes Berkah Lestari",
   "short_name": "BUMDes Berkah Lestari",
-  "start_url": "https://bumdes.ngasinan.id/?m=1",
+  "start_url": "https://bumdes.ngasinan.id/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
